@@ -1,0 +1,11 @@
+{
+  "name": "stopwatch_app",
+  "version": "1.0.0",
+  "description": "a productivity focused stopwatch app. think pomodoro timer but more features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Xiao",
+  "license": "ISC"
+}
